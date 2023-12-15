@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['263774183824', 'Man Of Steel', true],
+  ['263789707745', 'Project Steel', true],
   [''] 
 ] //Number of owners
 
@@ -49,10 +49,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Steel'
+global.botname = 'Project Steel'
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.author = '@dougyk1000' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
