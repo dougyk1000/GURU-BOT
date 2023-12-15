@@ -7,11 +7,11 @@ import axios from 'axios'
 
 
 global.owner = [
-  [263789707745', 'GURU', true],
+  ['263774183824', 'Man Of Steel', true],
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "263 78 970 7745" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
