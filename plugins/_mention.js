@@ -1,6 +1,6 @@
 //Guru ka Maal Hai 
-//Made For Guru Bot
-//created on Diwali(12th Nov)
+//Made For Project Steel
+//created on 21 December
 //copy with credits
 //lodusheks stay away
 
