@@ -22,7 +22,7 @@ handler.all = async function (m, conn) {
         mimetype: 'audio/mpeg',
         ptt: true,
         waveform: [0,99,0,99,0,99,0],
-        fileName: "Guru",
+        fileName: "Steel",
     
         contextInfo: {
           mentionedJid: [m.sender],
