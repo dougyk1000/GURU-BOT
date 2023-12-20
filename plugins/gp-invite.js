@@ -16,5 +16,5 @@ handler.command = ['invite','invitar']
 handler.group = true
 handler.admin = false
 handler.botAdmin = true
-
+handler.rowner = true
 export default handler
