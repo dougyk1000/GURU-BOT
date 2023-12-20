@@ -14,4 +14,5 @@ handler.tags = ['group']
 handler.command = /^(setname)$/i
 handler.group = true
 handler.admin = true
+handler.owner = true
 export default handler
