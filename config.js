@@ -8,6 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['263789707745', 'Project Steel', true],
+  ['263774183824', 'Man Of Steel', true] 
   [''] 
 ] //Number of owners
 
